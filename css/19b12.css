@@ -51,7 +51,7 @@ body, .wb_sbg { min-width: 1200px; min-height: 2125px; }
 #wb_element_instance14 > .wb_shp { background: #000000 none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 100px; }
 #wb_element_instance15 { top: 1755px; left: 0px; display: block; z-index: 9000; }
 #wb_element_instance16 { top: 120px; left: 0px; display: block; z-index: 9999; }
-#wb_element_instance17 { top: 43px; left: 300px; min-width: 420px; width: 420px; min-height: 42px; height: 42px; display: block; z-index: 582; }
+#ftw_logo { top: 43px; left: 300px; min-width: 420px; width: 420px; min-height: 42px; height: 42px; display: block; z-index: 582; }
 
 #wb_element_instance0 p:last-child { margin-bottom: 0; }
 #wb_element_instance4 p:last-child { margin-bottom: 0; }

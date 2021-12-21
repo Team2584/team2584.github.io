@@ -41,16 +41,21 @@ body, .wb_sbg { min-width: 1200px; min-height: 1735px; }
 #wb_element_instance22 { top: 35px; left: 24px; min-width: 400px; width: 400px; min-height: 36px; height: 36px; display: block; z-index: 551; }
 #wb_element_instance23 { top: 0px; left: 0; right: 0; min-height: 100px; height: 100px; display: block; z-index: 496; }
 #wb_element_instance23 > .wb_shp { background: #000000 none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 0.95; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 100px; }
-#wb_element_instance24 { top: 120px; left: 35px; min-width: 495px; width: 495px; min-height: 156px; height: 156px; display: block; z-index: 164; }
-#wb_element_instance25 { top: 180px; left: 700px; min-width: 439px; width: 439px; min-height: 340px; height: 340px; display: block; z-index: 387; overflow: hidden; }
-#wb_element_instance25 img { width: 440px; height: 340px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
-#wb_element_instance26 { top: 640px; left: 30px; min-width: 497px; width: 497px; min-height: 156px; height: 156px; display: block; z-index: 447; }
-#wb_element_instance27 { top: 710px; left: 700px; min-width: 390px; width: 390px; min-height: 512px; height: 512px; display: block; z-index: 448; overflow: hidden; }
-#wb_element_instance27 img { width: 390px; height: 510px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#dreadnaught_title { top: 120px; left: 35px; min-width: 495px; width: 495px; min-height: 156px; height: 156px; display: block; z-index: 164; }
+#dreadnaught_text { top: 130px; left: 700px; min-width: 439px; width: 439px; min-height: 340px; height: 400px; display: block; z-index: 387; overflow: hidden; }
+#dreadnaught_text img { width: 440px; height: 440px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#red_rover_title { top: 640px; left: 30px; min-width: 495px; width: 495px; min-height: 156px; height: 156px; display: block; z-index: 164; }
+#red_rover_text { top: 710px; left: 700px; min-width: 439px; width: 439px; min-height: 340px; height: 340px; display: block; z-index: 387; overflow: hidden; }
+#red_rover_text img { width: 440px; height: 340px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#inky_title { top: 1160px; left: 35px; min-width: 497px; width: 497px; min-height: 156px; height: 156px; display: block; z-index: 447; }
+#inky_text { top: 1220px; left: 700px; min-width: 390px; width: 390px; min-height: 512px; height: 512px; display: block; z-index: 448; overflow: hidden; }
+#inky_text img { width: 390px; height: 510px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
 #wb_element_instance28 { top: 50px; left: 0; right: 0; min-height: 1455px; height: 1455px; display: block; z-index: 161; }
 #wb_element_instance28 > .wb_shp { background: #ffffff url("../gallery_gen/8a6cd991bbdb56e5756537900e7bac56.png") repeat fixed center center; background-size: auto auto; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 100%; height: 1455px; }
 #wb_element_instance29 { top: 1525px; left: 0px; display: block; z-index: 9000; }
 #wb_element_instance30 { top: 120px; left: 0px; display: block; z-index: 9999; }
+#ftw_logo { top: 43px; left: 300px; min-width: 420px; width: 420px; min-height: 42px; height: 42px; display: block; z-index: 582; }
+
 
 
 #wb_element_instance17 p:last-child { margin-bottom: 0; }
